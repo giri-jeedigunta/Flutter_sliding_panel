@@ -6,7 +6,7 @@ A minimal and simple sliding panel made for Flutter.
 
 In this example the sliding panel have no bounds can be dragged to top or bottom or any vertical position of the screen.
 
-![Screenshot](https://github.com/giri-jeedigunta/Flutter_sliding_panel/blob/master/screenshots/Example_1.gif){:height="50%"}
+![Screenshot](https://github.com/giri-jeedigunta/Flutter_sliding_panel/blob/master/screenshots/Example_1.gif) <!-- .element height="50%" width="auto" -->
 
 ## Example 2 - Snaps at custom positions
 
